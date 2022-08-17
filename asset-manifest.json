@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/note-app.git/static/css/main.03fb4278.css",
-    "main.js": "/note-app.git/static/js/main.3aa1fd02.js",
+    "main.js": "/note-app.git/static/js/main.045be7c3.js",
     "static/js/787.2e9082b0.chunk.js": "/note-app.git/static/js/787.2e9082b0.chunk.js",
     "static/media/fa-solid-900.ttf": "/note-app.git/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
     "static/media/fa-brands-400.ttf": "/note-app.git/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/note-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/note-app.git/index.html",
     "main.03fb4278.css.map": "/note-app.git/static/css/main.03fb4278.css.map",
-    "main.3aa1fd02.js.map": "/note-app.git/static/js/main.3aa1fd02.js.map",
+    "main.045be7c3.js.map": "/note-app.git/static/js/main.045be7c3.js.map",
     "787.2e9082b0.chunk.js.map": "/note-app.git/static/js/787.2e9082b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03fb4278.css",
-    "static/js/main.3aa1fd02.js"
+    "static/js/main.045be7c3.js"
   ]
 }
