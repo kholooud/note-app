@@ -13,10 +13,10 @@ function App() {
     <Navbar/>
 
     <Routes>
-    <Route path='/' element={<Login/>}/>
-      <Route path='/home' element={<Home/>}/>
-      <Route path='/register' element={<Register/>}/>
-      <Route path='/login' element={<Login/>}/>
+    <Route path='note-app/' element={<Login/>}/>
+      <Route path='note-app/home' element={<Home/>}/>
+      <Route path='note-app/register' element={<Register/>}/>
+      <Route path='note-app/login' element={<Login/>}/>
       <Route path='*' element={<NotFound/>}/>
     </Routes>
     
